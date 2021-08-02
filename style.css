@@ -1,0 +1,12 @@
+body{
+    background-image: url("grey.jfif");
+    background-position: center;
+    background-size: cover;
+}
+
+#carcanvas{
+    border-width: 8px;
+    background-color: aquamarine;
+    border-style: ridge;
+}
+
